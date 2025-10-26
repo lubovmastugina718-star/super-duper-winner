@@ -17,3 +17,7 @@ Fix memory allocation
 ## Update
 
 Fix edge case
+
+## Update
+
+Update API documentation
