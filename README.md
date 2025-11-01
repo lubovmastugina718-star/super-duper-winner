@@ -21,3 +21,7 @@ Fix edge case
 ## Update
 
 Update API documentation
+
+## Update
+
+Fix memory leak
