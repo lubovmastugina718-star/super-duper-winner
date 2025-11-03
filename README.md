@@ -25,3 +25,7 @@ Update API documentation
 ## Update
 
 Fix memory leak
+
+## Update
+
+Add retry logic
