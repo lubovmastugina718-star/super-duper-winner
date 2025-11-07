@@ -29,3 +29,7 @@ Fix memory leak
 ## Update
 
 Add retry logic
+
+## Update
+
+Update environment variables
