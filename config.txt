@@ -1,0 +1,3 @@
+config
+
+Fix null pointer
