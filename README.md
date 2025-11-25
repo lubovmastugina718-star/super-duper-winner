@@ -33,3 +33,7 @@ Add retry logic
 ## Update
 
 Update environment variables
+
+## Update
+
+Refactor code structure
