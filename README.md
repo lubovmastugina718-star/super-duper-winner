@@ -37,3 +37,7 @@ Update environment variables
 ## Update
 
 Refactor code structure
+
+## Update
+
+Update dependencies version
