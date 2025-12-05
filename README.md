@@ -41,3 +41,7 @@ Refactor code structure
 ## Update
 
 Update dependencies version
+
+## Update
+
+Improve error messages
