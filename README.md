@@ -45,3 +45,7 @@ Update dependencies version
 ## Update
 
 Improve error messages
+
+## Update
+
+Fix data parsing
