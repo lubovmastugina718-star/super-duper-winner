@@ -57,3 +57,7 @@ Update tests
 ## Update
 
 Update environment variables
+
+## Update
+
+Update .gitignore
