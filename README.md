@@ -61,3 +61,7 @@ Update environment variables
 ## Update
 
 Update .gitignore
+
+## Update
+
+Add logging
