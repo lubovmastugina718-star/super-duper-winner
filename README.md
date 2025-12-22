@@ -65,3 +65,7 @@ Update .gitignore
 ## Update
 
 Add logging
+
+## Update
+
+Update build script
