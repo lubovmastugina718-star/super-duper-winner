@@ -69,3 +69,7 @@ Add logging
 ## Update
 
 Update build script
+
+## Update
+
+Improve error messages
