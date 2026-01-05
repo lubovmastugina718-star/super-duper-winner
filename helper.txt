@@ -3,3 +3,5 @@ helper
 Add new feature
 
 # Update environment variables
+
+# Add error recovery
