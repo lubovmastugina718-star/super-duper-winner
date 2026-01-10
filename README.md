@@ -73,3 +73,7 @@ Update build script
 ## Update
 
 Improve error messages
+
+## Update
+
+Add new endpoint
