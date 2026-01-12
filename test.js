@@ -4,3 +4,5 @@ function test() {
 }
 
 # Update environment variables
+
+# Add new test case
