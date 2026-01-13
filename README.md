@@ -77,3 +77,7 @@ Improve error messages
 ## Update
 
 Add new endpoint
+
+## Update
+
+Update dependencies version
