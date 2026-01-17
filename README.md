@@ -81,3 +81,7 @@ Add new endpoint
 ## Update
 
 Update dependencies version
+
+## Update
+
+Add new test case
