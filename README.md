@@ -85,3 +85,7 @@ Update dependencies version
 ## Update
 
 Add new test case
+
+## Update
+
+Refactor code structure
