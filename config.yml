@@ -1,3 +1,5 @@
 name: config
 version: 1.0.0
 description: Fix security issue
+
+# Add error handling
